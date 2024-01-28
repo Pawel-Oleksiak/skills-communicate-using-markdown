@@ -13,3 +13,7 @@ greet = "Hello World in Python!"
 ``` javascript
 var greet = "Hello World in JavaScript!";
 ```
+- [x] Turn on the computer
+- [x] Learn something new
+- [ ] Keep learning
+- [ ] Achieve greatness! :)
